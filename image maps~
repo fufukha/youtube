@@ -1,0 +1,79 @@
+
+show more   #767676
+border-top #e2e2e2
+
+=_ {
+  background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -423px -231px;
+  background-size: auto; /*works without?*/
+  width: 16px;
+  height: 16px;
+}
+
+youtube logo {
+background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -308px -60px;
+background-size: auto;
+width: 73px;
+height: 30px;
+}
+
+bell-notification {
+    background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -698px -257px;
+    background-size: auto;
+    width: 30px;
+    height: 30px;
+}
+
+search-maggls {
+background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -340px -209px;
+background-size: auto;
+width: 15px;
+height: 15px;
+}
+
+subcribpe {
+    background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -532px 0;
+    background-size: auto;
+    width: 16px;
+    height: 12px;
+}
+
+add {
+background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -430px -86px;
+background-size: auto;
+width: 20px;
+height: 20px;
+}
+
+share {
+background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -359px -209px;
+background-size: auto;
+width: 20px;
+height: 20px;
+}
+
+more {
+    background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -24px -26px;
+    background-size: auto;
+    width: 20px;
+    height: 20px;
+}
+
+thumbs up {
+background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -239px -240px;
+background-size: auto;
+width: 20px;
+height: 20px;
+
+}
+
+thumbs down {
+    background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflykgb8o.png) -500px -28px;
+    background-size: auto;
+    width: 20px;
+    height: 20px;
+    padding-bottom: 1px;
+}
+
+}
+
+
